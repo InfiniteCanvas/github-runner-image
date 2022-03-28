@@ -25,5 +25,5 @@ jobs:
         with:
           push: true
           build-args: RUNNER_VERSION=2.289.1
-          context: windows/
+          context: "{{defaultContext}}:windows"
           tags: infinitecanvas/github-runner:windows-latest,infinitecanvas/github-runner:windows-2.289.1
