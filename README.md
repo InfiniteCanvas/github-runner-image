@@ -1,4 +1,4 @@
-# github-runner-image [![build-and-push](https://github.com/InfiniteCanvas/github-runner-image/actions/workflows/build-and-push.yml/badge.svg)](https://github.com/InfiniteCanvas/github-runner-image/actions/workflows/build-and-push.yml)
+# github-runner-image [![linux build-and-push](https://github.com/InfiniteCanvas/github-runner-image/actions/workflows/linux.yml/badge.svg)](https://github.com/InfiniteCanvas/github-runner-image/actions/workflows/linux.yml)
 Builds [github-runner images](https://hub.docker.com/r/infinitecanvas/github-runner).
 
 It's just [a github runner](https://github.com/actions/runner) in a docker image.<br>
