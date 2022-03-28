@@ -26,5 +26,5 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: true
-          build-args: RUNNER_VERSION="2.289.1"
+          build-args: RUNNER_VERSION=2.289.1
           tags: infinitecanvas/github-runner:latest,infinitecanvas/github-runner:2.289.1
